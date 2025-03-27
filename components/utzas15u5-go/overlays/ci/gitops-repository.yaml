@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: utzas15u5-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/utzas15u5-go-gitops
